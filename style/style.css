@@ -4,11 +4,11 @@
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 20px;
-    font-size: 72px;
+    padding-top: 10px;
+    font-size: 70px;
     border-radius: 10px;
     background: black;
     color: white;
-    left: 30%;
-    top: 100px;
+    left: 1000px;
+    top: 1000px;
 }
