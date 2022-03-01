@@ -1,9 +1,8 @@
 .rectangle {
     height:  100px;
-    width: 1200px;
+    width: 600px;
     text-align: center;
-    padding-left: 20px;
-    padding-right: 20px;
+    
     padding-top: 10px;
     font-size: 48px;
     border-radius: 10px;
