@@ -4,7 +4,9 @@
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    font-size: 72px;
+    border-radius: 10px;
     background: black;
     color: white;
     left: 30%;
